@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <title> Practice 1 </title>
+        </head>
+        <body>
+        <!-- Sahi Noukoussi-->
+        <style type="text/css">
+        div {
+        width: 600px;
+        padding: 20px;
+        border: 5px solid black;
+        margin: 0px;
+        background-color: <div id="F7F6B3">
+        }
+
+        </style>
+        <font face="Verdana"
+
+        <body background="Armory.jpg">
+
+        <div style="position:fixed;left:350px;">
+        <marquee style="font-size: 40pt;"scrollamount="10" direction="right"
+        behaviour="alternate"><b>Swords</b></marquee>
+        </div>
+        <font face="Ariel Black">
+        <div style="position:fixed;left:350px;top:150px;width:300px;height:200px;">
+        <img src="Longsword.jpg" width="170" height="250"
+        style="position:fixed;top:150px;right:1100px;">
+        <head><font size="+3"> Longsword </font><head>
+        <p> a european sword characterized as having a cruciform hilt with a grip for primarily two-handed use </p>
+        </div>
+
+        <div style="position:fixed;left:950px;top:150px;width:300px;height:200px;">
+        <img src="shortsword.png" width="170" height="250"
+        style="position:fixed;top:150;right:500px;">
+        <head><font size="+3"> Shortsword </font><head>
+        <p> Similar to the Longsword but not as long and generally used as a secondary weapon </p>
+        </div>
+
+        <div style="position:fixed;left:350px;top:450px;width:300px;height:200px;">
+        <img src="Greatsword.jfif" width="170" height="250"
+        style="position:fixed;top:450;right:1100px;">
+        <head><font size="+3"> Zweihander </font><head>
+        <p> The Zweihander is a large German two-handed sword primarily in use during the 16th century </p>
+        </div>
+        
+        <div style="position:fixed;left:950px;top:450px;width:300px;height:200px;">
+        <img src="Katana.jpg" width="170" height="250"
+        style="position:fixed;top:450;right:1100px;">
+        <head><font size="+3"> Katana </font><head>
+        <p> The katana is a Japanese sword characterized by a curved, single-edged blade with a circular or squared guard and long grip to accommodate two hands </p>
+        </div>
+    </body>
+</html>
